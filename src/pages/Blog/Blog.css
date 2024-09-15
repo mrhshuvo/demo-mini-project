@@ -1,0 +1,127 @@
+/*Post date section*/
+.post-date{
+    margin-top: 30px;
+}
+.post-date .date{
+    background-color: #F4F4F4;
+    margin-right: 10px;
+    text-align: center;
+    width: 40px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    color: #0088CC;
+    font-weight: bold;
+}
+
+.post-date .month{
+    background-color: #0088CC;
+    margin-right: 10px;
+    text-align: center;
+    width: 40px;
+    margin-top: -16px;
+    color: #ffffff;
+    padding: 5px;
+}
+
+/* Post Content section*/
+
+.post-content h2{
+    margin-top: 30px;
+    font-size: 25px;
+    font-family: Poppins,sans-serif;
+    font-weight: 600;
+}
+
+.post-content p {
+    margin-top: 25px;
+    color: #807777;
+}
+
+
+/* Post meta section*/
+
+/* Author section */
+
+ .author .author-left .author-icon{
+ margin-right: 5px;
+ margin-top: 7px;
+ 
+}
+
+.author .author-right span{
+    color: #0088CC;
+    text-decoration: none;
+    margin-right: 5px;
+    font-family: Poppins,sans-serif;
+    font-size: 12px;
+}
+
+
+/* Cats Section*/
+
+.cats .cat-left .cat-icon{
+    margin-right: 5px;
+    margin-top: 7px;
+}
+
+.cats .cat-right span{
+    color: #0088CC;
+    text-decoration: none;
+    font-size: 12px;
+    margin-right: 5px;
+    font-family: Poppins,sans-serif;
+}
+
+.cats .cat-right .asides{
+    margin-right: 8px;
+}
+
+
+/* Tags section*/
+
+.tags .tag-left .tag-icon{
+    margin-right: 5px;
+    margin-top: 7px;
+    
+}
+
+.tags .tag-right span {
+    color: #0088CC;
+    text-decoration: none;
+    font-family: Poppins,sans-serif;
+    font-size: 12px;
+}
+
+.tags .tag-right .chatA {
+    margin-right: 8px;
+}
+
+
+/* Comment Section */
+
+.comments .comment-left .comment-icon {
+    color: #24282C;
+    margin-right: 5px;
+    margin-top: 7px;
+
+}
+
+.comments .comment-right span {
+    color: #0088CC;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: Poppins,sans-serif;
+
+}
+
+.main a{
+
+    background-color:none;
+    color: none;
+    padding: none;
+    border-radius: none;
+    font-family: Poppins, sans-serif;
+    font-weight: none;
+    font-size: none;
+    text-transform: none;
+}

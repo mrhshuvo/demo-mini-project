@@ -1,0 +1,190 @@
+/* Main section */
+
+.main{
+    background-color: #ffffff;
+    padding: 40px;
+}
+
+/* Content Section */
+
+.main h2{
+    font-size: 32px !important;
+    font-weight: bold;
+    font-family: Poppins,sans-serif;
+}
+
+.main p {
+    color: #777777;
+    font-size: 17px;
+    font-family: Poppins,sans-serif;
+}
+
+/* Button section */
+
+.main a {
+    text-decoration: none;
+     background-color: #00A0F0;
+     color: #ffffff;
+     padding: 14px 25px;
+     border-radius: 5px;
+     font-family: Poppins,sans-serif;
+     font-weight: 700;
+     font-size: 12px;
+     text-transform: uppercase;
+    
+}
+
+.button .sub-button{
+    width: 100%;
+    height: 100%;
+    margin-top: 50px;
+}
+
+/* Main2 section */
+
+.main2{
+    padding: 100px;
+    background-color: #F7F7F7;
+}
+
+.imgDiv img{
+    width: 500px;
+    height: 400px;
+    object-fit: cover;
+}
+
+
+.content {
+    margin-left: -130px;
+}
+
+.content h3{
+    font-size: 21px;
+    font-family: Poppins,sans-serif;
+    font-weight: bold;
+    margin-top: 80px;
+    margin-bottom: 25px;
+}
+
+.content .para1 p {
+    color: #777777;
+    font-size: 15px;
+    font-family: Poppins,sans-serif;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+.content .para2 p {
+    color: #777777;
+    font-size: 15px;
+    font-family: Poppins,sans-serif;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+/* Our Vission section */
+
+.main3{
+    background-color: #FFFFFF;
+}
+
+.ourVission{
+    margin-top: 50px;
+} 
+
+
+.ourVission .ourVission-left .ourV-icon{
+  background-color: #00A0F0;  
+  color: #FFFFFF;
+  font-size: 10px;
+  padding: 5px;
+}
+
+ .ourVission-right h3{
+    font-size: 14px;
+    font-family: Poppins,sans-serif;
+     color: #222529;
+     font-weight: 600;
+     margin-left: 10px;
+     margin-top: 3px;
+}
+
+.ourVission-right p{
+    color: #777777;
+    font-family: Poppins,sans-serif;
+    font-size: 15px;
+}
+
+/* Our Mission section */
+
+.ourMission .ourMission-left .ourM-icon{
+  background-color: #00A0F0;  
+  color: #FFFFFF;
+  font-size: 10px;
+  padding: 5px;
+}
+
+.ourMission .ourMission-right h3{
+    font-size: 14px;
+    font-family: Poppins,sans-serif;
+     color: #222529;
+     font-weight: 600;
+     margin-left: 10px;
+     margin-top: 3px;
+}
+
+.ourMission .ourMission-right p{
+    color: #777777;
+    font-family: Poppins,sans-serif;
+    font-size: 15px;
+}
+
+
+/* Progress bar section */
+
+.allProgress{
+    margin-top: 50px;
+}
+
+.htmlP{
+    margin-bottom: 15px;
+}
+.htmlP span{
+    font-size: 14px;
+    font-family: Poppins,sans-serif;
+     color: #777777;
+     font-weight: 400;
+     text-transform: uppercase;
+}
+
+.designP{
+    margin-bottom: 15px;
+}
+.designP span{
+    font-size: 14px;
+    font-family: Poppins,sans-serif;
+     color: #777777;
+     font-weight: 400;
+}
+
+.wordpressP{
+    margin-bottom: 15px;
+}
+
+.wordpressP span{
+    font-size: 14px;
+    font-family: Poppins,sans-serif;
+     color: #777777;
+     font-weight: 400;
+}
+
+.photoshopeP{
+    margin-bottom: 15px;
+}
+
+.photoshopeP span{
+    font-size: 14px;
+    font-family: Poppins,sans-serif;
+     color: #777777;
+     font-weight: 400;
+}

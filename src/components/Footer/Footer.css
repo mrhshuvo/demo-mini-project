@@ -1,0 +1,165 @@
+/* new part*/
+
+.footerDiv{
+    background-color: #212529;
+}
+
+.news .news-heading h2{
+    color: #ffff;
+    font-weight: 600;
+    font-size: 13px;
+    margin-bottom: 16px;
+    padding-top: 60px;
+}
+
+.news .new-para p{
+ color: #646E75;;
+}
+
+.news .new-form input{
+    border-radius: 20px;
+    padding: 10px;
+}
+
+
+/* faq part  */
+
+.faq .faq-heading h1{
+ color: #ffffff;
+ margin-bottom: 14px;
+ font-size: 13px;
+ padding-top:60px ;
+}
+
+.faq .faq-para{
+    color: #777777;
+}
+
+
+.faq .faq-para a{
+     padding: 8px;
+     width: 100%;
+     display: inline-block;
+     text-decoration: none;
+     color: #777777;
+}
+
+.contract .contract-heading h2{
+ 
+        color: #ffff;
+        font-weight: 600;
+        font-size: 13px;
+        margin-bottom: 16px;
+        padding-top: 60px;
+    
+}
+
+
+.contract .contract-des ul li  {
+    color: #777777;
+}
+
+
+
+.follow .flow-text h2{
+        color: #ffff;
+        font-weight: 600;
+        font-size: 13px;
+        margin-bottom: 16px;
+        padding-top: 60px;
+}
+
+
+.follow .follow-icon ul li{
+    color: #777777;
+}
+
+/* Mini Footer */
+
+.secondary-footer{
+    background-color: #1C2023;
+}
+
+.logoPara .miniLogo img{
+    width: 80px;
+    height: 40px;
+    padding-top: 10px;
+}
+
+.logoPara p {
+    color: #555555;
+    /* display: block; */
+    font-size: 12px;
+}
+
+.logoPara .miniPara .para1 p{
+    color: #555555;
+    font-size: 13px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.miniMenu ul li a{
+    text-decoration: none;
+    color: #777777;
+    font-size: 12px;
+    margin: 20px;
+}
+
+
+
+/* Contract Section */
+
+.contract .sub-contract .contract-left .circle-icons{
+    color: #2097D2;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.contract .sub-contract .contract-right p{
+    color: #777777;
+}
+
+.whatIcon-section .whatIcon-right .whtIcons {
+    color:#2097D2 ;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.whatIcon-section .whatIcon-left p {
+    color: #777777;
+}
+
+
+.envelop-section .envelop-left .envelop-icon{
+    color: #2097D2;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.envelop-section .envelop-right p {
+    color: #777777;
+}
+
+/* Follow Section */
+
+.follow .follow-icon .facebook-icon{
+    color: #ffffff;
+    font-size: 30px;
+    margin-right: 5px;
+}
+
+
+.follow .follow-icon .twitter-icon{
+    color: #ffffff;
+    font-size: 40px;
+    margin-right: 5px;
+    margin-top: -5px;
+}
+
+.follow .follow-icon .linkedin-icon{
+    color: #ffffff;
+    font-size: 40px;
+    margin-right: 5px;
+    margin-top: -5px;
+}

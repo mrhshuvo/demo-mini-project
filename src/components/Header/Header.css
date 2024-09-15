@@ -1,0 +1,8 @@
+.mainHeader{
+    width: 100%;
+    height: 80px;
+}
+
+.mainHeader .logo{
+    margin-top: 10px;
+}

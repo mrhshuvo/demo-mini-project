@@ -1,0 +1,46 @@
+/*Content section*/
+
+.content h2{
+    color: #222529;
+    font-size: 30px;
+    font-family: Poppins,sans-serif;
+    font-weight: bold;
+    margin: 20px 0px;
+}
+
+.member-item .member-img img{
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.member-item .member-content p {
+    color: #7A7A7A;
+    font-size: 13px;
+    font-family: Poppins,sans-serif;
+}
+
+/* Icons section */
+
+.member-item .member-icons .fIcon{
+     font-size: 27px;
+     color: #0088CC;
+     margin-top: 8px;
+     margin-bottom: 25px;
+}
+
+.member-item .member-icons .tIcon {
+    font-size: 31px;
+     color: #0088CC;
+     margin-top: 7px;
+     margin-left: 3px;
+     margin-bottom: 25px;
+}
+
+.member-item .member-icons .lIcon{
+    font-size: 39px;
+    color: #0088CC;
+    margin-top: 3px;
+    margin-left: 0px;
+    margin-bottom: 25px;
+}

@@ -1,0 +1,192 @@
+/* Slider part*/
+
+img{
+   margin-bottom: -5px;
+}
+
+
+.miniDiv{
+    background-color: #0088CC;
+}
+
+.paraDiv h1{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 26px;
+    padding-top: 15px;
+}
+
+.paraDiv p{
+    color: #B3DCEE;
+    padding-bottom: 5px;
+}
+
+.paraDiv h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+
+
+.towButton .buttonDiv{
+    margin-top: 35px;
+}
+
+.towButton .buttonDiv a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #2D3238;
+    padding: 13px 18px;
+    border-radius: 8px;
+    margin-right: 18px;
+}
+
+.towButton .buttonDiv a:hover{
+    background-color: #2d3238df;
+}
+
+
+.towButton .orButton p{
+color: #ffffff;
+}
+
+.towButton .orButton a{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+/* Featurea area*/
+
+.ourFeaturea{
+    background-color: #ffffff;
+    
+
+}
+
+.columArea .para1 h1 {
+    font-size: 28px;
+    font-family: Poppins,sans-serif;
+    font-weight: 800;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+
+/* Icons part*/
+
+.customF .icon-left .lifeIcon{
+    font-size: 40px;
+    padding-right: 10px;
+    color: #0088CC;
+}
+
+.customF .icon-body h3{
+    font-size: 18px;
+    color: #222529;
+    font-family: Poppins,sans-serif;
+    font-weight: 800;
+}
+
+.slider .slider-left .slider-icon {
+    font-size: 40px;
+    padding-right: 10px;
+    color: #0088CC;
+}
+
+.slider .slider-right h3 {
+    font-size: 18px;
+    color: #222529;
+    font-family: Poppins,sans-serif;
+    font-weight: 800;
+}
+.hcj .hcj-left .hcj-icon{
+    font-size: 40px;
+    padding-right: 10px;
+    color: #0088CC;
+}
+
+.hcj .hcj-right h3 {
+    font-size: 18px;
+    color: #222529;
+    font-family: Poppins,sans-serif;
+    font-weight: 800;
+}
+
+.icons .icons-left .user-icon{
+    font-size: 40px;
+    padding-right: 10px;
+    color: #0088CC;
+}
+
+.icons .icons-right h3{
+    font-size: 18px;
+    color: #222529;
+    font-family: Poppins,sans-serif;
+    font-weight: 800;
+}
+
+
+.googleFont .google-left .google-icons{
+    font-size: 40px;
+    padding-right: 10px;
+    color: #0088CC;
+}
+
+
+.googleFont .google-right h3{
+    font-size: 18px;
+    color: #222529;
+    font-family: Poppins,sans-serif;
+    font-weight: 800;
+}
+
+.button .button-left .menu-icon{
+    font-size: 40px;
+    padding-right: 10px;
+    color: #0088CC;
+}
+
+.button .button-right h3{
+    font-size: 18px;
+    color: #222529;
+    font-family: Poppins,sans-serif;
+    font-weight: 800;
+}
+
+.colors .color-left .pencile-icon {
+    font-size: 40px;
+    padding-right: 10px;
+    color: #0088CC;
+}
+
+.colors .colors-right h3{
+    font-size: 18px;
+    color: #222529;
+    font-family: Poppins,sans-serif;
+    font-weight: 800;
+}
+
+.light .light-left .light-icons {
+    font-size: 40px;
+    padding-right: 10px;
+    color: #0088CC;
+}
+
+.light .light-right h3{
+    font-size: 18px;
+    color: #222529;
+    font-family: Poppins,sans-serif;
+    font-weight: 800;
+}
+
+/* And more section*/
+
+.andMore p{
+    color: #222529;
+    font-family: Poppins,sans-serif;
+    font-size: 25px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,225 @@
+/* Contract us*/
+
+.formDiv .contractCont h2{
+    color: #222529;
+    font-size: 30px;
+    font-family: Poppins,sans-serif;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+.formDiv .contractCont p{
+    color: #8D7777;
+    margin-bottom: 45px;
+    font-family: Poppins,sans-serif;
+    font-size: 14px;
+}
+
+.formDiv .contName label{
+    font-weight: bold;
+}
+
+.formDiv .contEmail label{
+    font-weight: bold;
+}
+
+.formDiv .contSubject label{
+    font-weight: bold;
+}
+
+.formDiv .contMessage label {
+    font-weight: bold;
+}
+
+
+/* Button Section*/
+
+.formDiv .button form button{
+     padding: 12px 30px;
+     margin: 20px 20px;
+    background-color: #0088CC;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+.formDiv .button form button:hover{
+    background-color: #0a7cb5;
+}
+
+/* Info-box section */
+.info-box{
+    margin-bottom: 20px;
+}
+.info-box h3{
+    color: #212529;
+    font-size: 20px;
+    font-family: Poppins,sans-serif;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+/* Office section*/
+
+.ourOffice .ourOffice-left .officeIcon{
+   color:#0088CC;
+   font-size: 20px;
+   margin-right: 10px;
+}
+
+.ourOffice .ourOffice-right p strong{
+    color: #777777;
+}
+
+.ourOffice .ourOffice-right p{
+    color: #958C84;
+    font-size: 14px;
+    font-family: Poppins,sans-serif;
+}
+
+/* phone section*/
+
+.phone .phone-left .phone-icon {
+    color:#0088CC;
+   font-size: 15px;
+   margin-right: 10px;
+}
+
+.phone .phone-right p strong{
+    color: #777777;
+}
+
+.phone .phone-right p {
+    color: #958C84;
+    font-size: 14px;
+    font-family: Poppins,sans-serif;
+}
+
+/* email section*/
+
+.email .email-left .email-icon{
+    color:#0088CC;
+   font-size: 20px;
+   margin-right: 10px;
+   margin-top: 2px;
+}
+
+.email .email-right p strong {
+    color: #777777;
+
+}
+
+.email .email-right p {
+    color: #958C84;
+    font-size: 14px;
+    font-family: Poppins,sans-serif;  
+}
+
+
+/* Business info section */
+
+.business-info h4{
+    font-size: 20px;
+    font-family: Poppins,sans-serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.business .bus-left .bus-icon{
+   margin-top: 5px;
+   font-size: 15px;
+   margin-right: 10px;
+   font-weight: 500;
+}
+
+.business .bus-right p {
+    color: #958C84;
+    font-family: Poppins,sans-serif;
+    font-size: 14px;
+}
+
+
+/* Monday section */
+
+.monday .mon-left .mon-icon{
+    margin-top: 2px;
+    font-size: 15px;
+    margin-right: 10px;
+    font-weight: 500;
+}
+
+.monday .mon-right p {
+    color: #958C84;
+    font-family: Poppins,sans-serif;
+    font-size: 14px;
+}
+
+
+/* Sunday section */
+
+.sunday .sun-left .sun-icon{
+    margin-top: 2px;
+    font-size: 15px;
+    margin-right: 10px;
+    font-weight: 500;
+}
+
+.sunday .sun-right p {
+    color: #958C84;
+    font-family: Poppins,sans-serif;
+    font-size: 14px;
+}
+
+
+/* Touch section */
+
+.touch-info h4{
+    font-size: 20px;
+    font-family: Poppins,sans-serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 35px;
+}
+
+.touch-info .para p{
+    color: #958C84;
+}
+
+/* Last section */
+
+
+.last-content{
+    background-color: #F7F7F7;
+    padding: 80px;
+}
+
+
+
+.content-area h2{
+    color: #212529;
+    font-size: 25px;
+    font-family: Poppins,sans-serif;
+    text-align: center;
+}
+
+.content-area p {
+    color: #777777;
+    text-align: center;
+    font-family: Poppins,sans-serif;
+}
+
+/*  Button section */
+
+.button-area a{
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #212529;
+    color: #ffff;
+    font-family: Poppins,sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+   padding: 15px 25px;
+   border-radius: 5px;
+
+}
